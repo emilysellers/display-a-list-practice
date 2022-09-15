@@ -1,5 +1,5 @@
 // import functions and grab DOM elements
-import { dogs } from './dogs-one.js';
+import { dogs } from './dogs-data.js';
 import { renderDog } from './render-dog.js';
 
 const dogList = document.getElementById('dog-list');
